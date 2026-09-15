@@ -1,0 +1,351 @@
+# index, id, group, size
+0,Baron Zemo,1,2
+1,N'astirh,1,3
+2,Silver Sable,0,1
+3,Hope Summers (comics),0,1
+4,Magik (Illyana Rasputin),0,1
+5,Night Thrasher (Dwayne Taylor),0,2
+6,Orb (comics),1,1
+7,Forge (comics),0,1
+8,U.S. Agent (character),0,1
+9,Venom (Marvel Comics character),1,6
+10,Hercules (Marvel Comics),0,1
+11,Selene (comics),1,5
+12,Hood (comics),1,2
+13,Sabretooth (comics),2,1
+14,Beetle (comics),2,1
+15,Siryn,0,2
+16,Malekith the Accursed,1,3
+17,Mister Negative,1,1
+18,Jessica Jones,0,2
+19,Maria Hill,0,3
+20,Master Izo,0,1
+21,Valkyrie (Marvel Comics),0,1
+22,Nova (Sam Alexander),0,1
+23,Rampage (Marvel Comics),1,1
+24,Cable (comics),0,4
+25,Cyclone (Marvel Comics),1,1
+26,Mercurio the 4-D Man,1,1
+27,Mojo (comics),1,1
+28,Trevor Fitzroy,1,1
+29,Rev (comics),1,1
+30,Matsu'o Tsurayaba,1,1
+31,Elsie-Dee,0,1
+32,Motormouth (comics),0,1
+33,Mephisto (comics),1,1
+34,Fury (Marvel Comics),1,1
+35,Andromeda (Marvel Comics),0,1
+36,Mad Jim Jaspers,1,1
+37,Magneto (comics),2,2
+38,Wasp (comics),0,1
+39,Vermin (comics),1,1
+40,Spidercide,1,1
+41,Crimson Dynamo,2,2
+42,Nomad (comics),2,3
+43,Kro (comics),1,2
+44,Walrus (comics),1,1
+45,Spymaster (comics),1,1
+46,Hawkeye (Kate Bishop),0,1
+47,Headlok,1,1
+48,Gamora,0,1
+49,War Machine,0,2
+50,Titania (Marvel Comics),1,2
+51,"Bob, Agent of Hydra",0,1
+52,T-Ray (comics),1,1
+53,Nick Fury,0,2
+54,Aragorn (comics),0,2
+55,Mandarin (comics),1,1
+56,Cobra (Marvel Comics),1,1
+57,Kraven the Hunter,1,2
+58,Daredevil (Marvel Comics character),0,3
+59,Llyra,1,2
+60,Crane Mother,0,1
+61,Anya Corazon,0,3
+62,Silhouette (comics),0,1
+63,Ulik,1,1
+64,Iron Man (Ultimate Marvel character),0,1
+65,Abner Jenkins,2,3
+66,Fixer (comics),2,2
+67,Bucky Barnes,0,2
+68,Red Raven (Marvel Comics),2,1
+69,Tarantula (Marvel Comics),2,1
+70,Enchantress (Marvel Comics),1,5
+71,Venomm,1,1
+72,Spider-Man (Miles Morales),0,4
+73,Thing (comics),0,1
+74,Tombstone (comics),1,2
+75,Blackout (Marcus Daniels),1,1
+76,Toro (comics),0,1
+77,Iron Man,0,5
+78,Torpedo (Marvel Comics),2,1
+79,Answer (comics),1,1
+80,Erik Josten,2,2
+81,Mastermind (Martinique Jason),1,1
+82,Kurse,1,2
+83,White Rabbit (comics),1,2
+84,Lemuel Dorcas,1,4
+85,Justin Hammer,1,5
+86,Satannish,1,1
+87,Mendel Stromm,1,1
+88,Adam Warlock,0,2
+89,Fin Fang Foom,2,1
+90,Lorelei (Asgardian),1,2
+91,Shiver Man,0,3
+92,Namorita,0,3
+93,Shriker,0,2
+94,Riri Williams,0,1
+95,Gilded Lily (character),1,1
+96,Carrion (comics),1,5
+97,Ms. Marvel (Kamala Khan),0,1
+98,Space Phantom,1,1
+99,Gambit (comics),0,1
+100,Glob (comics),1,1
+101,Gladiator (Melvin Potter),1,2
+102,Exodus (comics),1,1
+103,Super Sabre (comics),1,2
+104,S'ym,1,2
+105,Matador (Marvel Comics),1,1
+106,Tiger Shark (Marvel Comics),1,2
+107,Mad Thinker,1,5
+108,Alpha the Ultimate Mutant,2,1
+109,Mariko Yashida,0,1
+110,Demogoblin,1,5
+111,Crimson Commando,1,1
+112,Scarecrow (Marvel Comics),1,6
+113,Redwing (Marvel Comics),0,1
+114,Hiro Takachiho,0,1
+115,Lilith (Marvel Comics),1,1
+116,Futurist (comics),2,1
+117,Baron Strucker,1,2
+118,Presence (Marvel Comics),1,1
+119,Swordsman (comics),2,1
+120,Blackout (Lilin),1,1
+121,Falcon (comics),0,3
+122,Krang (Marvel Comics),1,5
+123,Mandrill (comics),1,2
+124,Elektro (comics),2,1
+125,Black Tom Cassidy,1,3
+126,Baron Mordo,1,2
+127,Nate Grey,0,2
+128,Annihilus,1,1
+129,Jamie Braddock,1,2
+130,Diablo (Marvel Comics),1,2
+131,Molten Man,2,1
+132,Shard (comics),0,1
+133,Abomination (comics),1,3
+134,Ghaur,1,3
+135,Danger Room,1,3
+136,Copycat (Marvel Comics),2,3
+137,Killpower,0,1
+138,Mangog,1,1
+139,Hulk (comics),0,3
+140,Ymir (Marvel Comics),1,1
+141,Threnody (comics),1,1
+142,Thanos,1,2
+143,Midnight's Fire,1,1
+144,Chimera (Marvel Comics),1,2
+145,Spot (comics),1,1
+146,Albert (comics),1,1
+147,Prowler (comics),2,1
+148,Psylocke,0,1
+149,Black Bolt,0,1
+150,Harry Osborn,2,1
+151,Battlestar (comics),0,1
+152,Stonewall (comics),1,1
+153,Tyrak,1,1
+154,Shuri (comics),0,1
+155,Fenris (comics),1,1
+156,Garrison Kane,0,1
+157,Jennifer Kale,0,1
+158,Mister Hyde (comics),1,3
+159,Starlight (Marvel Comics),0,1
+160,Mockingbird (Marvel Comics),0,2
+161,Man-Ape,1,1
+162,Iron Fist (comics),0,7
+163,Crossbones (comics),1,2
+164,Egghead (Marvel Comics),1,2
+165,Demolition Man (comics),0,2
+166,Kaecilius,1,2
+167,Deadpool,0,5
+168,Sin (Marvel Comics),1,2
+169,Slayback,1,1
+170,Wonder Man,0,1
+171,Helmut Zemo,1,1
+172,Rachel Summers,0,1
+173,Eel (comics),1,2
+174,Mentallo,1,1
+175,Wizard (Marvel Comics),1,2
+176,Beast (comics),0,2
+177,Nekra,1,2
+178,Hela (comics),1,3
+179,Juggernaut (comics),2,4
+180,Umar (Marvel Comics),1,1
+181,Doctor Doom,1,4
+182,Namor,0,5
+183,Eli Bard,1,1
+184,Ord (comics),1,1
+185,Hawkeye (comics),0,4
+186,Wraith (Marvel Comics),2,2
+187,Inferno (Dante Pertuz),0,4
+188,Senyaka,1,1
+189,Puma (comics),2,2
+190,Volcana (Marvel Comics),2,1
+191,Black Cat (Marvel Comics),0,3
+192,Fenris Wolf (Marvel Comics),1,1
+193,Spider-Man,0,12
+194,Pasco (comics),1,1
+195,Ringer (comics),1,2
+196,Power Broker,1,1
+197,Misty Knight,0,3
+198,Gorgon (Inhuman),2,1
+199,Doctor Octopus,1,1
+200,Luke Cage,0,5
+201,Wither (comics),2,1
+202,Ravonna,1,1
+203,Leila Davis,1,4
+204,Executioner (comics),1,1
+205,Silver Samurai,2,3
+206,Rhino (comics),1,2
+207,Baymax,0,1
+208,Will o' the Wisp (comics),2,3
+209,Black Fox (Raul Chalmers),1,1
+210,Dormammu,1,5
+211,Cloak and Dagger (comics),0,1
+212,Rogue (comics),2,1
+213,Darkstar (comics),0,3
+214,Dirtnap (comics),1,1
+215,Human Torch (android),0,1
+216,Mole Man,1,5
+217,Thor (Marvel Comics),0,3
+218,Surtur (Marvel Comics),1,3
+219,Unicorn (comics),1,8
+220,Black Widow (Natasha Romanova),0,4
+221,Mondo (comics),2,2
+222,Janice Lincoln,2,1
+223,Leader (comics),1,4
+224,Sat-Yr-9,1,1
+225,Collector (comics),1,1
+226,Doctor Strange,0,1
+227,Ghost Rider,0,2
+228,Cletus Kasady,1,4
+229,Black Knight (Dane Whitman),0,1
+230,Colleen Wing,0,3
+231,Gibbon (comics),1,1
+232,Devil Dinosaur,0,2
+233,Shriek (comics),1,5
+234,Discus (comics),1,2
+235,Black Panther (comics),0,2
+236,Spider-Girl,0,1
+237,Doctor Faustus (comics),1,1
+238,Attuma,1,8
+239,Erik Killmonger,1,1
+240,Storm (Marvel Comics),0,2
+241,Mac Gargan,1,1
+242,Arcade (Marvel Comics),1,2
+243,Vulture (Marvel Comics),1,1
+244,Blink (comics),0,1
+245,Kala (comics),1,1
+246,Jocasta (comics),0,2
+247,Electro (Marvel Comics),1,1
+248,Chameleon (comics),1,6
+249,Spider-Woman (Jessica Drew),0,3
+250,Doc Samson,0,1
+251,Grizzly (comics),1,2
+252,Deathwatch (comics),1,1
+253,She-Hulk,0,1
+254,Vengeance (comics),2,2
+255,Bucky (Marvel Comics),0,1
+256,Topaz (Marvel Comics),0,1
+257,Molecule Man,1,1
+258,Porcupine (comics),1,2
+259,Kangaroo (comics),1,4
+260,Madame Masque,1,1
+261,Abraham Cornelius,1,2
+262,Stingray (comics),0,1
+263,Free Spirit (comics),0,1
+264,Psycho-Man,1,1
+265,Jason Macendale,1,1
+266,Klaw (Marvel Comics),1,1
+267,Kingpin (character),1,2
+268,Amadeus Cho,0,1
+269,Red Ghost,1,4
+270,Hank Pym,0,2
+271,Titanium Man,1,2
+272,Madelyne Pryor,1,2
+273,Absorbing Man,1,1
+274,Nicholas Scratch,1,1
+275,Grim Reaper (comics),1,6
+276,Boomerang (comics),1,3
+277,Pip the Troll,2,2
+278,Black Talon (comics),1,1
+279,Medusa (comics),0,1
+280,Rom (comics),0,1
+281,Blastaar,1,1
+282,Kid Kaiju,0,2
+283,Jack Flag,0,1
+284,Elsa Bloodstone,0,1
+285,Power Man (Victor Alvarez),0,2
+286,Abigail Brand,0,1
+287,Awesome Android,1,1
+288,Spider-Woman (Gwen Stacy),0,3
+289,Domino (comics),0,3
+290,Wolverine (character),0,2
+291,Lois London,1,1
+292,Zarathos,1,2
+293,Madman (Marvel Comics),1,1
+294,Cyttorak,1,1
+295,Carnage (comics),1,5
+296,Steel Serpent,1,1
+297,Eddie Brock,2,2
+298,Man-Beast,1,2
+299,Moon Girl (Marvel Comics),0,2
+300,Midgard Serpent (Marvel Comics),1,1
+301,Captain America,0,10
+302,Spiral (comics),2,1
+303,Calypso (comics),1,1
+304,Man-Thing,0,1
+305,Red Skull,1,9
+306,Apocalypse (Marvel Comics),1,1
+307,Silk (comics),0,5
+308,Stiletto (comics),1,2
+309,Mayhem (comics),0,1
+310,Loki (comics),1,6
+311,Jigsaw (Marvel Comics),1,2
+312,Orka (comics),1,1
+313,Batroc the Leaper,1,1
+314,Pluto (Marvel Comics),1,1
+315,Mister Sinister,1,1
+316,Sif (comics),0,1
+317,Griffin (Marvel Comics),1,2
+318,Garokk,1,1
+319,Pepper Potts,0,1
+320,Moon-Boy,0,1
+321,Caretaker (comics),0,1
+322,Buzz (comics),0,1
+323,Arnim Zola,1,1
+324,Jonas Harrow,1,2
+325,Rikki Barnes,0,1
+326,White Tiger (Angela del Toro),0,1
+327,Hammerhead (comics),1,3
+328,Viper (Madame Hydra),1,3
+329,Puppet Master (Marvel Comics),1,5
+330,Man-Bull,1,1
+331,Ultron,1,2
+332,Byrrah,1,3
+333,Kang the Conqueror,1,1
+334,Carol Danvers,0,2
+335,Jackal (Marvel Comics),1,3
+336,Galaxy Master,1,1
+337,Doppelganger (comics),1,5
+338,Plantman,1,2
+339,Shellshock (Marvel Comics),1,1
+340,Count Nefaria,1,2
+341,Emplate,1,1
+342,Peregrine (comics),0,1
+343,Belasco (Marvel Comics),1,3
+344,Dragon Man,1,1
+345,Bi-Beast,1,2
+346,Namora,0,3
+347,Alexander Bont,1,2
+348,Giganto,1,2
+349,Fin (comics),0,3

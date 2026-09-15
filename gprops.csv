@@ -1,0 +1,6 @@
+# prop_name, value
+name,marvel_partnerships
+description,"A network of partnerships among characters in the Marvel comic book universe. Nodes are either heroes or villains, and edges represent partnerships between such characters. The partnership network was extracted from Wikipedia pages of these characters, which indicate partnership relations with other such pages."
+citation,"['Ulf Aslak (@ulfaslak) Tweet, Twitter (2018), https://twitter.com/ulfaslak/status/1048126665338101760']"
+url,http://ix.io/1omF
+tags,"['Social', 'Fictional', 'Unweighted']"
